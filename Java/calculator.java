@@ -28,5 +28,6 @@ class calculator{
             System.out.println("Wrong Choice!");
 
         }
+        sc.close();
     }
 }
